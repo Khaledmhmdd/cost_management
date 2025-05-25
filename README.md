@@ -63,7 +63,7 @@ This repository provides a modular set of SDKs and libraries implemented in **Re
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/
+git clone https://github.com/Khaledmhmdd/cost_management.git
 cd cost-management-sdk
 npm install
 npm run dev
